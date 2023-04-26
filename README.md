@@ -1,12 +1,10 @@
-### Hello World!👋
+<img align="center" src="../img/KakaoTalk_20230427_000314305.jpg" width="300"/>
 
-<!--
-**hadduu13/hadduu13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hello, World! I'm Haeju</h1>
 
-Here are some ideas to get you started:
+<h2>My tech stack🖥</h2>
 
-- 🌱 I’m currently learning React & MySQL
-- 📫 How to reach me: haeju813@gmail.com
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: My major has nothing to do with computer science! 
--->
+![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=flat&logo=html5&logoColor=ffffff)
+![CSS](https://img.shields.io/badge/-CSS3-007ACC?style=flat&logo=css)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![React](https://img.shields.io/badge/-React-222222?style=flat&logo=react)
