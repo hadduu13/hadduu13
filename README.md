@@ -10,7 +10,7 @@
 
 <h3>About Me</h3>
 
-<li>🔗 How to reach me : haeju813@mail.com </li>
+<li>🔗 How to reach me : haeju813@gmail.com </li>
 <li>😊 Pronouns : she/her </li>
 <li>📒 I'm currently learnimg Java and MySQL </li>
 <li>🤣 Fun Fact : My major has nothing to do with Computer Science! </li>
