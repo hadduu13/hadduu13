@@ -9,7 +9,7 @@
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=react)
 
 <h3>About Me</h3>
--🔗 How to reach me : haeju813@mail.com
--😊 Pronouns : she/her
--📒 I'm currently learnimg Java and MySQL
--🤣 Fun Fact : My major has nothing to do with Computer Science!
+-🔗 How to reach me : haeju813@mail.com <br />
+-😊 Pronouns : she/her <br />
+-📒 I'm currently learnimg Java and MySQL <br />
+-🤣 Fun Fact : My major has nothing to do with Computer Science! <br />
