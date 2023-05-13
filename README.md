@@ -2,8 +2,8 @@
 <h1>Hello, World! I'm Haeju</h1>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={hadduu13})](https://solved.ac/{hadduu13})
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=hadduu13)](https://solved.ac/hadduu13)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={gown2765})](https://solved.ac/{gown2765})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=gown2765)](https://solved.ac/gown2765)
 
 <h2>My tech stack🖥</h2>
 
